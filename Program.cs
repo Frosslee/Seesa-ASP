@@ -10,7 +10,7 @@ for (int i = 1; i <= 100; i++)
     }
     else if (i % 5 == 0)
     {
-        Console.WriteLine("Buzz ");
+        Console.WriteLine("Buzz " + i);
     }
     else
     {
